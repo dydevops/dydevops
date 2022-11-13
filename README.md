@@ -1,8 +1,8 @@
 # Hi, I'm Dharmendra Yadav! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### About me
-I'm a Python Web Developer with equal interest in other programming languages too
-- 🔭 I’m currently working on Python/Django Projects
+Hello, I am Dharmendra Yadav and I am a Python Django Web Developer, Search Engine Optimizer. 
+I love all the things to do with Python and write about it.
 ### Connect with me:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/dydevops)](https://github.com/dydevops)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dydevops/)](https://www.linkedin.com/in/dydevops/)
