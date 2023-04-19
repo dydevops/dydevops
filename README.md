@@ -19,6 +19,5 @@ Hello, I am Dharmendra Yadav and I am a Python Django Web Developer, Search Engi
 
 # Django Blog Webgenisys
 <a href="https://github.com/dydevops/django-blog-wbgenisys">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tuhin-thinks&repo=python-codes&theme=dracula">
 </a>
 
