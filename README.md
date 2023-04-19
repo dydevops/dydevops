@@ -17,7 +17,7 @@ Hello, I am Dharmendra Yadav and I am a Python Django Web Developer, Search Engi
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dydevops&" alt="dydevops" /></p>
 
 
-# Django Blog Webgenisys
-<a href="https://github.com/dydevops/django-blog-wbgenisys">
+# Python Django Web Developer Dharmendra Yadav
+<a href="https://www.dydevops.com/">
 </a>
 
