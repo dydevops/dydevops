@@ -3,6 +3,7 @@
 ### About me
 Hello, I am Dharmendra Yadav and I am a Python Django Web Developer, Search Engine Optimizer. 
 - I love all the things to do with Python and write about it.
+- A highly motivated Web Developer with substantial experience in crafting effective and user-friendly websites using WordPress, Python Django, and PHP. Recognized for delivering complex projects on time, with a keen eye for the latest web technologies and digital trends.
 ### Connect with me:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/dydevops)](https://github.com/dydevops)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dydevops/)](https://www.linkedin.com/in/dydevops/)
