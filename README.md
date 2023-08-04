@@ -1,7 +1,8 @@
 # Hi, I'm Dharmendra Yadav! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### About me
-Hello, I am Dharmendra Yadav and I am a Python Django Web Developer, Wordpress Web Developer.,.I love all the things to do with Python and write about it. 
+Hello, I am Dharmendra Yadav and I am a Python Django Web Developer, Wordpress Web Developer.,.I love all the things to do with Python and write about it.
+A highly motivated Web Developer with substantial experience in crafting effective and user-friendly websites using WordPress, Python Django, and PHP. Recognized for delivering complex projects on time, with a keen eye for the latest web technologies and digital trends.
 - Proficient in WordPress development, with the ability to create custom web design, plugins, and widgets from scratch. Extensive knowledge in utilizing WordPress APIs and integrating third-party services.
 - Strong Python programming skills with extensive experience in using Django Framework for designing, implementing, and maintaining web applications. Solid understanding of the MVT design pattern and Django's ORM for database manipulation.
 - Strong database management skills, including MySQL, PostgreSQL, and SQLite, with an ability to design, normalize, and optimize databases.
