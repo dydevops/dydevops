@@ -1,12 +1,12 @@
 # Dharmendra Yadav :computer:
 
-Welcome to my GitHub! I'm a passionate **Python Django and WordPress Web Developer**, crafting user-friendly, efficient, and scalable web solutions. I thrive on learning cutting-edge technologies and delivering high-quality projects aligned with modern digital trends.
+Welcome to my GitHub! I'm a passionate **Web Developer** specializing in **Python**, **Django**, and **WordPress**, crafting user-friendly, efficient, and scalable web solutions. I thrive on learning cutting-edge technologies and delivering high-quality projects aligned with modern digital trends.
 
 ## About Me
-- :computer: **Web Developer** specializing in **Python Django**, **WordPress**, **PHP**, and **JavaScript**.
+- :computer: **Web Developer** with expertise in **Python**, **Django**, **WordPress**, **PHP**, and **JavaScript**.
 - :globe_with_meridians: **WordPress Expertise**: Proficient in building custom themes, plugins, and widgets, with deep knowledge of WordPress APIs and third-party integrations.
-- :snake: **Python Proficiency**: Extensive experience with the **Django Framework**, designing robust web applications using the MVT pattern and Django ORM.
-- :card_file_box: **Database Management**: Proficient in **MySQL**, **PostgreSQL**, and **SQLite**, with a focus on design, normalization, and optimization.
+- :snake: **Python & Django Proficiency**: Extensive experience using **Python** and the **Django Framework** to design robust web applications with the MVT pattern and Django ORM.
+- :card_file_box: **Database Management**: Skilled in **MySQL**, **PostgreSQL**, and **SQLite**, focusing on design, normalization, and optimization.
 - :art: **Front-End Skills**: Experienced in **HTML5**, **CSS3**, **JavaScript**, **jQuery**, and **Bootstrap** for responsive, visually appealing interfaces.
 - :wrench: **Problem-Solving**: Strong debugging skills and expertise in **Git** for version control.
 - :cloud: **Cloud Deployment**: Adept at deploying and managing websites on platforms like **AWS**, **Oracle**, **DigitalOcean**, and **Linode**.
