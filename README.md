@@ -3,7 +3,7 @@
 Welcome to my GitHub! I'm a passionate **Web Developer** specializing in **Python**, **Django**, and **WordPress**, crafting user-friendly, efficient, and scalable web solutions. I thrive on learning cutting-edge technologies and delivering high-quality projects aligned with modern digital trends.
 
 ## About Me
-- :computer: **Web Developer** with expertise in **Python**, **Django**, **WordPress**, **PHP**, and **JavaScript**.
+- :computer: **Web Developer** with expertise in **Python**, **Django**, **WordPress**.
 - :globe_with_meridians: **WordPress Expertise**: Proficient in building custom themes, plugins, and widgets, with deep knowledge of WordPress APIs and third-party integrations.
 - :snake: **Python & Django Proficiency**: Extensive experience using **Python** and the **Django Framework** to design robust web applications with the MVT pattern and Django ORM.
 - :card_file_box: **Database Management**: Skilled in **MySQL**, **PostgreSQL**, and **SQLite**, focusing on design, normalization, and optimization.
