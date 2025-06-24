@@ -38,10 +38,10 @@ Welcome to my GitHub! I'm a passionate **Web Developer** specializing in **Pytho
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dydevops&show_icons=true&theme=light&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dydevops&show_icons=true&theme=radical&locale=en&hide_border=true" alt="GitHub Stats" width="400" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dydevops&theme=light" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dydevops&theme=radical&hide_border=true" alt="GitHub Streak" width="400" />
 </p>
 
 ## Visit My Website
