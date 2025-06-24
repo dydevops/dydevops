@@ -13,6 +13,10 @@ Welcome to my GitHub! I'm a passionate **Web Developer** specializing in **Pytho
 - :white_check_mark: **Quality Assurance**: Familiar with testing tools to ensure reliable web applications.
 - :rocket: **Lifelong Learner**: Committed to staying ahead in the ever-evolving tech landscape.
 
+## Contact Details
+- :telephone_receiver: **Mobile**: +91 9452428546
+- :envelope: **Email**: dkydevops@gmail.com
+
 ## Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dydevops)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dydevops/)
