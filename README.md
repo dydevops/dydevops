@@ -3,7 +3,7 @@
 I'm a passionate **Python Django and WordPress Web Developer** with a knack for crafting user-friendly, efficient, and scalable websites. I thrive on learning new technologies and delivering high-quality projects that align with modern web trends.
 
 ## About Me
-- ðŸ’» **Web Developer** specializing in **Python Django**, **WordPress**, and **PHP**.
+- ðŸ’» **Web Developer** specializing in **Python Django**, **WordPress**
 - ðŸŒŸ Proficient in building custom WordPress themes, plugins, and widgets, with expertise in WordPress APIs and third-party integrations.
 - ðŸ Strong Python skills, leveraging the **Django Framework** to design and maintain robust web applications using the MVT pattern and Django ORM.
 - ðŸ—„ï¸ Skilled in database management with **MySQL**, **PostgreSQL**, and **SQLite**, focusing on design, normalization, and optimization.
