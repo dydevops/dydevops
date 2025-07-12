@@ -49,7 +49,7 @@ Welcome to my GitHub! I'm a passionate **Web Developer** specializing in **Pytho
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
   </a>
   <a href="https://docs.celeryq.dev/en/stable/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/celery-1.svg" alt="Celery" width="40" height="40"/>
+    <img src="https://docs.celeryq.dev/en/latest/_static/celery_512.png" alt="Celery" width="40" height="40"/>
   </a>
 </p>
 ## GitHub Stats
